@@ -17,7 +17,8 @@
 ## II. Data Visualization with Python
 - **MoM Retention Rate for Customer Transaction Data**
 
-![Uploading Screenshot 2024-05-10 212533.png…]()
+![image](https://github.com/nits302/Cohort-Analysis-How-to-Analyze-User-Retention/assets/161421206/d99a4e3b-f218-4c2e-914a-750422b1a860)
+
 
 ## III. Insights
 - Customers who register and place their first order in July 2017 have a high retention rate (up to 48.1%) after 5 months of operation.
