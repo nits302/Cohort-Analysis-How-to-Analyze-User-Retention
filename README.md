@@ -17,7 +17,7 @@
 ## II. Data Visualization with Python
 - **MoM Retention Rate for Customer Transaction Data**
 
-![image](https://github.com/nits302/Cohort-Analysis-How-to-Analyze-User-Retention/assets/161421206/d99a4e3b-f218-4c2e-914a-750422b1a860)
+![Screenshot 2024-05-10 212533](https://github.com/nits302/Cohort-Analysis-How-to-Analyze-User-Retention/assets/161421206/c9b83483-d946-44a9-9281-13533f94c3d7)
 
 
 ## III. Insights
